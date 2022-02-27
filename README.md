@@ -1,4 +1,4 @@
- En primer instancia clone en repositorio con "git clone git://github.com/MartinCiro/mail-python.git && cd mail-python/ && chmod 777 Install.sh && bash Install.sh" SIN COMILLAS
+ En primer instancia clone en repositorio con "git clone git://github.com/MartinCiro/mail-python.git && cd mail-python/ && sudo apt install python3 python pip -y ; chmod 777 Install.sh && bash Install.sh" SIN COMILLAS
 
 # mail-python
 Envia mensajes a un correo con opciones pre establecidas
