@@ -1,5 +1,5 @@
- En primer instancia clone en repositorio con "git clone git://github.com/MartinCiro/mail-python.git && cd mail-python/ && sudo apt install python3 python3-pip git" SIN COMILLAS
- 
+ En primer instancia clone en repositorio con "git clone git://github.com/MartinCiro/mail-python.git && cd mail-python/ && sudo apt install python3 python3-pip git" SIN COMILLAS (el script modificado para funcionar con mayor compatibilidad con ultimas versiones)
+
 # Se da permisos de ejecucion
 chmod 777 Install.sh && bash Install.sh
 # mail-python
