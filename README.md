@@ -1,5 +1,4 @@
-En primer instancia ejecuta el instalador o sigue hasta el paso 17
-bash Install.sh
+En primer instancia ejecute el instalador con el comando "bash Install.sh" el hará el resto
 
 # mail-python
 Envia mensajes a un correo con opciones pre establecidas
