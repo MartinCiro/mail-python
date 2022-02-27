@@ -1,4 +1,5 @@
-En primer instancia ejecute el instalador con el comando "bash Install.sh" el hará el resto
+En primer instancia clone en repositorio con "git clone git://github.com/MartinCiro/mail-python.git"
+cd mail-python/ && chmod 777 Install.sh && bash Install.sh
 
 # mail-python
 Envia mensajes a un correo con opciones pre establecidas
