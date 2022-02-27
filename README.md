@@ -16,6 +16,6 @@ Este es un proyecto para enviar emails con python desde una Terminal(Termux/Linu
 
 Ingrese a la adminitracion de cuenta y habilite 'Permitir el acceso de aplicaciones menos seguras':
 https://myaccount.google.com/lesssecureapps
-Sino permite el acceso el scrip no funcionara posible que no funcione.
+Sino permite el acceso el scrip posiblemente no funcione.
 
 bash Install.sh
