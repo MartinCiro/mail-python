@@ -6,7 +6,7 @@ Envia mensajes a un correo con opciones pre-establecidas
 Este es un proyecto para enviar emails con python desde una Terminal(Termux/Linux).
 
 # Instalación
-En primer instancia clone el repositorio con "git clone git://github.com/MartinCiro/mail-python.git && cd mail-python/ && apt install python3 python3-pip git" SIN COMILLAS (el script modificado para funcionar con mayor compatibilidad con ultimas versiones)
+En primer instancia clone el repositorio con "git clone git://github.com/MartinCiro/mail-python.git && cd mail-python/ && apt install python3 python3-pip git" SIN COMILLAS (el script modificado para funcionar con mayor compatibilidad con ultimas versiones), si usa termux no instale python3-pip, termux no lo reconoce
 
 De permisos de ejecucion
 chmod 777 Install.sh && bash Install.sh
