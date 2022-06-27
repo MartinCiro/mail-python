@@ -103,6 +103,8 @@ print(""+cy)
 
 yagmail.SMTP(correo, contraseña).send(to=opcion, subject=asunto, contents=massage)
 
+# Adjuntar archivos en el correo
+# yagmail.SMTP(correo, contraseña).send(to=opcion, subject=asunto, contents=massage, attachments=[yagmail.inline('/media/ciro/vacio/left.png')])
 print("[+] Correo enviado...")
 
 # Author - MartinCiro
