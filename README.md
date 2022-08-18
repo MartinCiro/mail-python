@@ -17,6 +17,7 @@ Ingrese a la adminitracion de cuenta y habilite 'Permitir el acceso de aplicacio
 https://myaccount.google.com/lesssecureapps
 Sino permite el acceso el scrip posiblemente no funcione, recuerde que debe actualizar el scrip reemplazando el correo y la contraseña
 
+
 # Ejecucion:
 Use el comando python3 enviar.py
 
@@ -27,3 +28,6 @@ Este proyecto es basado en el scrip publicado por https://github.com/AnonyVox An
 
 # Descargo de Responsabilidad
 Este proyecto es con fines de automatizacion, no se nombra a ninguna empresa, solo correos electronicos relacionados a productos de atencion al cliente, no me hago responsable del uso que le den
+
+# Cambios
+Se hace cambios, se implementa vectores, funciones y ciclos (enviar2.py)
